@@ -6,14 +6,16 @@ clone this url into kali linux
 git clone https://github.com/Srikanthreddy6202/OSINT-TOOL.git
 ```
 # Commands to run the program
+> -h is used to list all the basic options.
 > ```sh
 > pyton OSINT.py -h
 > ```
--h is used to list all the basic options.
+
+> Type the target username in the place of username
 > ```sh
 > pyton OSINT.py username
 > ```
-Type the target username in the place of username
+
 
 
 
