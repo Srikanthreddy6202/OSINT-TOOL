@@ -59,11 +59,14 @@ def main(username, n_threads, sites):
 if __name__ == "__main__":
     import argparse
     print("""
- ___ _ __  _   _
-/ __| '_ \| | | |
-\__ | |_) | |_| |
-|___| .__/ \__, |
-    |_|    |___/
+  ____    _____     _     _   _   _______ 
+ / __ \  / ____|   | |   | \ | | |__   __|
+| |  | || (___     | |   |  \| |    | |   
+| |  | | \___ \    | |   | . ` |    | |   
+| |__| | ____) |   | |   | |\  |    | |   
+ \____/ |_____/    |_|   |_| \_|    |_|   
+
+
 # Social account scanner by @cyb3r-g0d
     """ )      
     parser = argparse.ArgumentParser(description="An OSINT tool to scan social media accounts by username across social networks")
