@@ -7,8 +7,13 @@ git clone https://github.com/Srikanthreddy6202/OSINT-TOOL.git
 ```
 # Commands to run the program
 > ```sh
-> pyton OSINT.py
+> pyton OSINT.py -h
 > ```
+-h is used to list all the basic options.
+> ```sh
+> pyton OSINT.py username
+> ```
+Type the target username in the place of username
 
 
 
