@@ -6,8 +6,9 @@ clone this url into kali linux
 git clone https://github.com/Srikanthreddy6202/OSINT-TOOL.git
 ```
 # Commands to run the program
-\`\`\` 
-python OSINT.py
-\`\`\`
+> ```sh
+> pyton OSINT.py
+> ```
+
 
 
