@@ -9,12 +9,12 @@ git clone https://github.com/Srikanthreddy6202/OSINT-TOOL.git
 
  -h is used to list all the basic options.
 > ```sh
-> pyton OSINT.py -h
+> python OSINT.py -h
 > ```
 
 Type the target username in the place of username
 > ```sh
-> pyton OSINT.py username
+> python OSINT.py username
 > ```
 
 
